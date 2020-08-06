@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Gantner Coaching"
-description:	       "Rozmowy motywacyjne, ustalanie celow i business coaching"
+title:		           "Andrzej Gantner"
+description:	       "Business coaching, consulting, business coaching"
 author:              "Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
