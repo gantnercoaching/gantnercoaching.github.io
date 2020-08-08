@@ -2,7 +2,7 @@
 layout: post
 title: "Na czym polega Mentoring?"
 author: "Paul Le"
-categories: resources
+categories: documentation
 tags: [documentation,sample]
 image: arctic-4.jpg
 ---

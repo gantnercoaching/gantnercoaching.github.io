@@ -2,7 +2,7 @@
 layout: post
 title: "Na czym polega Coaching?"
 author: "Andrzej Gantner"
-categories: sample
+categories: documentation
 tags: [sample]
 image: arctic-1.jpg
 ---

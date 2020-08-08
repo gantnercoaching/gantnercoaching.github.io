@@ -2,7 +2,7 @@
 layout: post
 title: "Na czym polega Consulting?"
 author: "Paul Le"
-categories: facts
+categories: documentation
 tags: [sample]
 image: cuba-4.jpg
 ---
