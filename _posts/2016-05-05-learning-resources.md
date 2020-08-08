@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "Na czym polega Mentoring?"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]

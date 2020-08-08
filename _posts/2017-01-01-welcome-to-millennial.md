@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Ok, pierwszy krok za Toba. Co dalej?"
+author: "Andrzej Gantner"
 categories: documentation
-tags: [documentation,sample]
-image: cuba-1.jpg
+tags: [blog,coaching]
+image: map-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Pewnie zauwazliscie ze doskonalenie siebie jest bardzo czesto porownywane do wspinaczki w gorach. Dla mnie gory maja specjalna wartosc. Od zawsze byly moim spokojnym miejscem ktore dawaly mi energie i motywacje aby isc dalej.
 
-## Getting Started
+## Przed wspinaczka
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Przed wspinaczka]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): Zanim wyruszysz na szlak ktory doprowadzi cie do szczytu, trzeba sie przygotowac. Nie chcesz byc osoba ktora wchodzi na Giewont w japonkach. Zacznij od krotkiego quizu ktory dla Was przygotowalismy i dowiedz sie czego potrzebujesz w danym momencie.
 
 ## Example Content
 

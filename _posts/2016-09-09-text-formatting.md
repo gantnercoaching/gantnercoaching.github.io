@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Na czym polega Coaching?"
+author: "Andrzej Gantner"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg

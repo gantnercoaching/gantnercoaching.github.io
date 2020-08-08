@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Andrzej Gantner"
-description:	       "Business coaching, consulting, business coaching"
-author:              "Paul Le"
+description:	       "Business coaching, consulting, mentoring"
+author:              "Margo G"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

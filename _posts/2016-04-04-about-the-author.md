@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Na czym polega Consulting?"
 author: "Paul Le"
 categories: facts
 tags: [sample]
