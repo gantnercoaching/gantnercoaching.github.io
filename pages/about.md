@@ -4,7 +4,7 @@ title: Kim jest Andrzej G.?
 tag: [blog,coaching]
 ---
 
-Andrzej jest ekspertem w pracy z osobami które chcą poszerzyć swoją wiedzę wokoł corporate leadership, pracy zespołowej, negocjacji, oraz wystąpień medialnych i public speaking.
+Andrzej jest ekspertem w pracy z osobami które chcą poszerzyć swoją wiedzę wokół corporate leadership, pracy zespołowej, negocjacji, oraz wystąpień medialnych i public speaking.
  
 Swoje doświadczenie czerpie z pracy z największymi Europejskimi organizacjami w Polsce i na forum Unii Europejskiej w Brukseli. A poczucie humoru i filozofię życia z książek Terrego Pratchetta i górskich wspinaczek.
 
