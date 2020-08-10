@@ -7,12 +7,12 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Ok, pierwszy krok za Toba. Co dalej?</title>
+				<title>Ok, pierwszy krok za Tobą. Co dalej?</title>
 				
 					<dc:creator>Andrzej Gantner</dc:creator>
 				
 				
-					<description>&lt;p&gt;Pewnie zauwazliscie ze doskonalenie siebie jest bardzo czesto porownywane do wspinaczki w gorach. Dla mnie gory maja specjalna wartosc. Od zawsze byly moim spokojnym miejscem ktore dawaly mi energie i motywacje aby isc dalej.&lt;/p&gt;
+					<description>&lt;p&gt;Pewnie zauważyliście że doskonalenie siebie jest bardzo często porównywane do wspinaczki po górach. Dla mnie góry maja specjalna wartość. Od zawsze były moim spokojnym miejscem które dawały mi energie i motywacje aby iść dalej.&lt;/p&gt;
 
 </description>
 				
@@ -27,7 +27,9 @@
 					<dc:creator>Andrzej Gantner</dc:creator>
 				
 				
-					<description>&lt;p&gt;Wybierajac coach’a musisz kierowac sie swoim instynktem. Coach bedzie osoba ktora pomoze Ci odnalezc sile i motywacje gleboko ukryta w sobie. Czasem nie jestesmy pewni czego potrzebujemy, a ilosc roznych ofert w internecie jest przytlaczajaca. Czesto prowadzi do tego ze sie poddajemy.&lt;/p&gt;
+					<description>&lt;p&gt;Wybierając coach’a musisz kierować się swoim instynktem. Coach będzie osoba która pomoże Ci znaleźć siłę i motywację głęboko ukryta w sobie. Czasem nie jestesmy pewni czego potrzebujemy, a ilość różnych ofert w internecie jest przytłaczająca. Często prowadzi do tego że się poddajemy.&lt;/p&gt;
+
+&lt;p&gt;Dlatego przygotowaliśĶī dla Was krótką ewaluację, która pomoże Wam zrozumieć czego potrzebujecie w danej chwili. Może być to współpraca ze mną, albo nie. Gotowi? Postaraj się odpowiedzieć szczerze na następujące pytania:&lt;/p&gt;
 
 </description>
 				
@@ -42,42 +44,28 @@
 					<dc:creator>Andrzej Gantner</dc:creator>
 				
 				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+					<description>&lt;p&gt;Coaching i rozwój osobisty polegają na analizowaniu aktualnych problemów klienta. Rozważa się więc sytuację obecną i możliwe drogi rozwoju, bez zagłębiania się w doświadczenia z przeszłości, które ukształtowały myślenie i zachowania. Coaching wspiera klienta w procesie nauki, zachęca do samodzielnego analizowania trudności i zmiany podejścia, a także motywuje do działania.&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/documentation/text-formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/text-formatting.html</guid>
+				<link>http://localhost:4000/documentation/na-czym-polega-biznes-coaching.html</link>
+				<guid isPermaLink="true">http://localhost:4000/documentation/na-czym-polega-biznes-coaching.html</guid>
 			</item>
 		
 			<item>
 				<title>Na czym polega Mentoring?</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>Andrzej Gantner</dc:creator>
 				
 				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+					<description>&lt;p&gt;Mentoring, samorozwój, szkolenia, podnoszenie kwalifikacji zawodowych, wspieranie, rozwijanie potencjału. Same modne słowa. Czym są? Mentoring to metoda szkolenia i adaptacji pracownika do firmy. To relacja partnerska między nim, a przydzielonym mu mentorem - inaczej mówiąc opiekunem, nauczycielem, przewodnikiem. Rolą trenera jest przekazywanie podopiecznemu wiedzy specjalistycznej, związanej z wykonywaną pracą, ale i wspieranie pracownika w rozwiązywaniu codziennych problemów. To osoba, która pomaga zaplanować jego rozwój w organizacji i monitoruje jego postępy. Motywuje, angażuje i zachęca do pracy.&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Thu, 05 May 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/documentation/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/learning-resources.html</guid>
-			</item>
-		
-			<item>
-				<title>Na czym polega Consulting?</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 04 Apr 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/documentation/about-the-author.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/about-the-author.html</guid>
+				<link>http://localhost:4000/documentation/na-czym-polega-mentoring.html</link>
+				<guid isPermaLink="true">http://localhost:4000/documentation/na-czym-polega-mentoring.html</guid>
 			</item>
 		
 	</channel>
